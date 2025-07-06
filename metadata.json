@@ -1,0 +1,5 @@
+{
+  "name": "Customer Management App (Arabic)",
+  "description": "A web application designed for managing customer accounts and transactions, with user authentication and role-based permissions. The interface is in Arabic.",
+  "requestFramePermissions": []
+}
